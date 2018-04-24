@@ -1,2 +1,3 @@
 # hello-world
-Primo approccio a GitHub
+Primo approccio a GitHub  
+esercizio base da Rs  
